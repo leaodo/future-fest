@@ -1,0 +1,76 @@
+[
+  {
+    "nomec": "rosa gallica",
+    "nomep": "Rosa",
+    "url_foto": "https://images.pexels.com/photos/196664/pexels-photo-196664.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "caracteristica": "As rosas são conhecidas por suas flores perfumadas e belas, possui espinhos ao longo dos caules"
+  },
+  {
+    "nomec": "Taraxacum officinale",
+    "nomep": "Dente-de-leão",
+    "url_foto": "https://images.pexels.com/photos/59753/pexels-photo-59753.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "caracteristica": "O dente-de-leão tem sido usado tradicionalmente em chás e outros remédios "
+  },
+  {
+    "nomec": "Nephrolepis exaltata",
+    "nomep": "Samambaia",
+    "url_foto": "https://images.pexels.com/photos/2563854/pexels-photo-2563854.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "caracteristica": "Algumas espécies de samambaias são conhecidas por suas propriedades de purificação do ar"
+  },
+  {
+    "nomec": "Prunus serrulata",
+    "nomep": "Flor de Cerejeira",
+    "url_foto": "https://images.pexels.com/photos/13242759/pexels-photo-13242759.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "caracteristica": "Pode atingir até 20 metros de altura, com folhas ovaladas que mudam de cor no outono"
+  },
+  {
+    "nomec": "Cereus jamacaru",
+    "nomep": "Mandacaru",
+    "url_foto": "https://images.pexels.com/photos/13010934/pexels-photo-13010934.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "caracteristica": "possui espinhos longos e afiados"
+  },
+  {
+    "nomec": "Allamanda cathartica",
+    "nomep": "Alamanda Amarela",
+    "url_foto": "https://images.pexels.com/photos/2775847/pexels-photo-2775847.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "caracteristica": " possui folhas verdes, lisas e brilhantes"
+  },
+  {
+    "nomec": "Cirsium",
+    "nomep": "Cardo",
+    "url_foto": "https://images.pexels.com/photos/1101111/pexels-photo-1101111.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1",
+    "caracteristica": "Os cardos são conhecidos por suas folhas e caules espinhosos"
+  },
+  {
+    "nomec": "Mentha sp",
+    "nomep": "Hortelã",
+    "url_foto": "https://images.pexels.com/photos/15395843/pexels-photo-15395843/free-photo-of-jardim-plantar-planta-verde.jpeg?auto=compress&cs=tinysrgb&w=600&lazy=load",
+    "caracteristica": "é amplamente utilizada na culinária e na medicina tradicional"
+  },
+  {
+    "nomec": "Hibiscus rosa-sinensis",
+    "nomep": "Hibisco",
+    "url_foto": "https://images.pexels.com/photos/26653345/pexels-photo-26653345/free-photo-of-plantar-planta-floracao-florescencia.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "caracteristica": "flores grandes e vistosas"
+  },
+  {
+    "titulo": "gases",
+    "url_foto": "https://images.pexels.com/photos/26631287/pexels-photo-26631287/free-photo-of-natureza-roxo-lilas-petalas.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "desc": "no cool"
+  },
+  {
+    "titulo": "retu",
+    "url_foto": "https://images.pexels.com/photos/26664435/pexels-photo-26664435/free-photo-of-natureza-flores-plantar-planta.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "desc": "teste"
+  },
+  {
+    "titulo": "juty",
+    "url_foto": "https://images.pexels.com/photos/26664435/pexels-photo-26664435/free-photo-of-natureza-flores-plantar-planta.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "desc": "huty"
+  },
+  {
+    "titulo": "teste",
+    "url_foto": "https://images.pexels.com/photos/26664435/pexels-photo-26664435/free-photo-of-natureza-flores-plantar-planta.jpeg?auto=compress&cs=tinysrgb&w=600",
+    "desc": "reste"
+  }
+]
