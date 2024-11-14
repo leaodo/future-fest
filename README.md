@@ -1,4 +1,5 @@
-# Título do Projeto: Tornando empresas mais sustentáveis 
+# Título do Projeto: 
+Tornando empresas mais sustentáveis 
 
 # Descrição do Projeto:
 Objetivo do projeto: tornar as empresa e o mundo mais sustentável
@@ -10,7 +11,7 @@ Tecnologias utilizadas: chat IA
 Problemas que o projeto resolve: As empresas nos procuram para recolher o lixo que seria jogado em locais errados e nós reciclamos eles
 
 
-Instalação:
+#Instalação:
 npm install express
 npm install mongodb
 npm install express-session
@@ -23,7 +24,7 @@ Uso do Site:
 Instruções para iniciar o servidor local: node server.js
  
 
-Exemplos de URLs ou rotas que podem ser acessadas: 
+#Exemplos de URLs ou rotas que podem ser acessadas: 
 Página inicial: http://localhost:3000/
 Produtos: http://localhost:3000/bemvindo
 login: http://localhost:3000/login
