@@ -1,6 +1,6 @@
 # Título do Projeto: Tornando empresas mais sustentáveis 
 
-Descrição do Projeto:
+# Descrição do Projeto:
 Objetivo do projeto: tornar as empresa e o mundo mais sustentável
 
 Principais funcionalidades: produtos sustentáveis para comprar, espaço para mandar mensagem para nós, chat IA, espaço para o usuário colocar dicas de sustentabilidade que ele pratica 
